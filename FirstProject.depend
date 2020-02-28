@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582862746 source:c:\users\isaac\onedrive\desktop\university\y1-s1\engg1003-introduction to procedural programming\firstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
